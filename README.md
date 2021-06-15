@@ -11,8 +11,7 @@ npm i
 
 ## Use 
 
-* During development `npm start`
-* On build server `npm test`
+* cypress open
 
 ## Housekeeping
 * Update dependencies to latest : `npm run update`
