@@ -1,0 +1,9 @@
+{
+    "baseUrl": "http://webdriveruniversity.com/Login-Portal/index.html",
+    "env": {
+        "userId": "456",
+        "username": "",
+        "password": "",
+        "environment": "stage"
+    }
+}
